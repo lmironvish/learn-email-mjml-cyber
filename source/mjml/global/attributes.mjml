@@ -105,4 +105,25 @@
 
   <mj-class name="views-header__img"         padding="10px 0px"/>
 
+  <mj-class name="views-adv"                 padding="0px 10px"
+                                             padding-top="10px"/>
+
+  <mj-class name="views-adv__column"         padding="0px 10px"
+                                             padding-bottom="10px"/>
+
+  <mj-class name="views-adv__accord"         border="0px"
+                                             icon-wrapped-url="https://i.postimg.cc/XNfxzsWV/img-cyber-down-arrow.png"
+                                             icon-unwrapped-url="https://i.postimg.cc/PJXDczbx/img-cyber-up-arrow.png"
+                                             icon-width="14px"
+                                             padding="0px"/>
+
+  <mj-class name="views-adv__accord-title"   font-family="Montserrat, Courier, sans-serif"
+                                             font-size="12px"
+                                             color="#bbbbbb"
+                                             padding="10px"/>
+
+  <mj-class name="views-adv__img"            width="64px"
+                                             padding="10px"/>
+
+
 </mj-attributes>

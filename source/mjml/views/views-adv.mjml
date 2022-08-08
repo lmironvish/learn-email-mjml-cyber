@@ -12,10 +12,15 @@
             title="{{{views-adv__img-cam.title}}}"
             alt="{{{views-adv__img-cam.alt}}}" />
 
-      <mj-accordion>
+      <mj-accordion mj-class="views-adv__accord"
+                    css-class="views-adv__accord">
           <mj-accordion-element>
-            <mj-accordion-title>Camera</mj-accordion-title>
-            <mj-accordion-text>
+            <mj-accordion-title mj-class="views-adv__accord-title"
+                                css-class="views-adv__accord-title">
+                                Camera
+            </mj-accordion-title>
+            <mj-accordion-text mj-class="views-adv__accord-text"
+                               css-class="views-adv__accord-text">
               <span>
                 Excepteur sint occaecat cupidatat qui laborum.
               </span>
@@ -28,18 +33,23 @@
   <mj-column mj-class="views-adv__column"
             css-class="views-adv__column">
 
-      <mj-image mj-class="views-adv__img-lens alt-img"
-            css-class="views-adv__img-lens alt-img"
+      <mj-image mj-class="views-adv__img alt-img"
+            css-class="views-adv__img alt-img"
 
             src="{{{views-adv__img-lens.src}}}"
             href="{{{views-adv__img-lens.href}}}"
             title="{{{views-adv__img-lens.title}}}"
             alt="{{{views-adv__img-lens.alt}}}" />
 
-      <mj-accordion>
+      <mj-accordion mj-class="views-adv__accord"
+                    css-class="views-adv__accord">
           <mj-accordion-element>
-            <mj-accordion-title>Lens</mj-accordion-title>
-            <mj-accordion-text>
+            <mj-accordion-title mj-class="views-adv__accord-title"
+                                css-class="views-adv__accord-title">
+                                Lens
+            </mj-accordion-title>
+            <mj-accordion-text mj-class="views-adv__accord-text"
+                               css-class="views-adv__accord-text">
               <span>
                 Excepteur sint occaecat cupidatat qui laborum.
               </span>
@@ -52,18 +62,23 @@
   <mj-column mj-class="views-adv__column"
             css-class="views-adv__column">
 
-      <mj-image mj-class="views-adv__img-other alt-img"
-                css-class="views-adv__img-other alt-img"
+      <mj-image mj-class="views-adv__img alt-img"
+                css-class="views-adv__img alt-img"
 
                 src="{{{views-adv__img-other.src}}}"
                 href="{{{views-adv__img-other.href}}}"
                 title="{{{views-adv__img-other.title}}}"
                 alt="{{{views-adv__img-other.alt}}}" />
 
-      <mj-accordion>
+      <mj-accordion mj-class="views-adv__accord"
+                    css-class="views-adv__accord">
           <mj-accordion-element>
-            <mj-accordion-title>Other</mj-accordion-title>
-            <mj-accordion-text>
+            <mj-accordion-title mj-class="views-adv__accord-title"
+                                css-class="views-adv__accord-title">
+                                Other
+            </mj-accordion-title>
+            <mj-accordion-text mj-class="views-adv__accord-text"
+                               css-class="views-adv__accord-text">
               <span>
                 Excepteur sint occaecat cupidatat qui laborum.
               </span>
@@ -76,18 +91,23 @@
   <mj-column mj-class="views-adv__column"
             css-class="views-adv__column">
 
-      <mj-image mj-class="views-adv__img-video alt-img"
-                css-class="views-adv__img-video alt-img"
+      <mj-image mj-class="views-adv__img alt-img"
+                css-class="views-adv__img alt-img"
 
                 src="{{{views-adv__img-video.src}}}"
                 href="{{{views-adv__img-video.href}}}"
                 title="{{{views-adv__img-video.title}}}"
                 alt="{{{views-adv__img-video.alt}}}" />
 
-      <mj-accordion>
+      <mj-accordion mj-class="views-adv__accord"
+                    css-class="views-adv__accord">
           <mj-accordion-element>
-            <mj-accordion-title>Video</mj-accordion-title>
-            <mj-accordion-text>
+            <mj-accordion-title mj-class="views-adv__accord-title"
+                                css-class="views-adv__accord-title">
+                                Video
+            </mj-accordion-title>
+            <mj-accordion-text mj-class="views-adv__accord-text"
+                               css-class="views-adv__accord-text">
               <span>
                 Excepteur sint occaecat cupidatat qui laborum.
               </span>

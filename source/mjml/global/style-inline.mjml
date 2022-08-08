@@ -69,5 +69,8 @@
     max-width: 87% !important;
   }
 
+  .mj-accordion-ico{
+    padding: 10px !important;
+  }
 
 </mj-style>

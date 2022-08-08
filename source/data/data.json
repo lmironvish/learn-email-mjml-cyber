@@ -21,6 +21,34 @@
     "alt": "logo"
   },
 
+  "views-adv__img-video": {
+    "src": "https://i.postimg.cc/4xLW1ngV/img-cyber-advantages-4.png",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
+  "views-adv__img-other": {
+    "src": "https://i.postimg.cc/K8v9LBdm/img-cyber-advantages-3.png",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
+  "views-adv__img-lens": {
+    "src": "https://i.postimg.cc/J48Yr9xD/img-cyber-advantages-2.png",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
+  "views-adv__img-cam": {
+    "src": "https://i.postimg.cc/gkKSnNtM/img-cyber-advantages-1.png",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",
