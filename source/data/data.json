@@ -8,11 +8,26 @@
   },
 
   "views-title__logo": {
-    "src": "https://i.postimg.cc/8cQKr3VY/img-agency-logo.png",
+    "src": "https://i.postimg.cc/prRQvtvP/img-cyber-logo.gif",
     "href": "#",
     "title": "logo",
     "alt": "logo"
+  },
+
+  "button--1": {
+    "src": "",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "bgcolor": "#838383"
+  },
+
+  "views-footer-link-1": {
+    "href": "https://www.google.com/",
+    "title": "text"
+  },
+
+  "views-unsubscribe": {
+    "href": "{{ unsubscribe_link }}",
+    "title": "text"
   }
-
-
 }

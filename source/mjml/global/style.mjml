@@ -10,6 +10,12 @@
 }
 
 
+.views-header__navlink:hover a{
+    background: #a114ba !important;
+    background-color: #a114ba !important;
+    border-radius: 6px !important;
+  }
+
 /* media */
 
 @media screen and (max-width: 479px) {

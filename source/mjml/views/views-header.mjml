@@ -4,25 +4,26 @@
   <mj-column mj-class="views-header__column"
             css-class="views-header__column">
 
-    <mj-image mj-class="views-header__img alt-img"
-              css-class="views-header__img alt-img"
+  <mj-navbar mj-class="views-header__navbar"
+             css-class="views-header__navbar">
+        <mj-navbar-link mj-class="views-header__navlink"
+                        css-class="views-header__navlink">ABOUT</mj-navbar-link>
+        <mj-navbar-link mj-class="views-header__navlink"
+                        css-class="views-header__navlink">SALE</mj-navbar-link>
+        <mj-navbar-link mj-class="views-header__navlink"
+                        css-class="views-header__navlink">TERMS</mj-navbar-link>
+        <mj-navbar-link mj-class="views-header__navlink"
+                        css-class="views-header__navlink">FAQ</mj-navbar-link>
+  </mj-navbar>
 
-              src="{{{views-header__img.src}}}"
-              title="{{{views-header__img.title}}}"
-              alt="{{{views-header__img.alt}}}" />
 
-    <mj-text mj-class="views-header__caption"
-            css-class="views-header__caption">
-      <p>We&nbsp;work outside</p>
-      <p>of&nbsp;the box.</p>
-    </mj-text>
+  <mj-image mj-class="views-header-img alt-img"
+            css-class="views-header-img alt-img"
 
-    <mj-button mj-class="views-header__btn"
-              css-class="views-header__btn"
-              href="#">
-        Download the free strategy guide
-    </mj-button>
-
+            src="{{{views-header-img.src}}}"
+            href="{{{views-header-img.href}}}"
+            title="{{{views-header-img.title}}}"
+            alt="{{{views-header-img.alt}}}" />
   </mj-column>
 
 </mj-section>
