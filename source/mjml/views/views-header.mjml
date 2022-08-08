@@ -1,5 +1,5 @@
-<mj-section mj-class="views-header pt10 pb30"
-          css-class="views-header pt10 pb30">
+<mj-section mj-class="views-header pb10"
+          css-class="views-header pb10">
 
   <mj-column mj-class="views-header__column"
             css-class="views-header__column">
@@ -17,13 +17,13 @@
   </mj-navbar>
 
 
-  <mj-image mj-class="views-header-img alt-img"
-            css-class="views-header-img alt-img"
+  <mj-image mj-class="views-header__img alt-img"
+            css-class="views-header__img alt-img"
 
-            src="{{{views-header-img.src}}}"
-            href="{{{views-header-img.href}}}"
-            title="{{{views-header-img.title}}}"
-            alt="{{{views-header-img.alt}}}" />
+            src="{{{views-header__img.src}}}"
+            href="{{{views-header__img.href}}}"
+            title="{{{views-header__img.title}}}"
+            alt="{{{views-header__img.alt}}}" />
   </mj-column>
 
 </mj-section>

@@ -1,5 +1,5 @@
-<mj-section mj-class="views-title"
-          css-class="views-title">
+<mj-section mj-class="views-title pt10"
+          css-class="views-title pt10">
 
   <mj-column mj-class="views-title__column"
             css-class="views-title__column">
