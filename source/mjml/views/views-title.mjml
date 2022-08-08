@@ -14,21 +14,4 @@
 
   </mj-column>
 
-  <mj-column mj-class="views-title__column"
-            css-class="views-title__column">
-
-    <mj-navbar mj-class="views-title__navbar"
-          css-class="views-title__navbar">
-
-        <mj-navbar-link mj-class="views-title__navbar-links"
-          css-class="views-title__navbar-links">About</mj-navbar-link>
-        <mj-navbar-link mj-class="views-title__navbar-links"
-          css-class="views-title__navbar-links">Careers</mj-navbar-link>
-        <mj-navbar-link mj-class="views-title__navbar-links"
-          css-class="views-title__navbar-links">Contact</mj-navbar-link>
-
-    </mj-navbar>
-
-  </mj-column>
-
 </mj-section>

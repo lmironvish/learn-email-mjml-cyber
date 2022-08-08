@@ -14,10 +14,12 @@
     <mj-include path="components/button/button-inline.mjml" />
     <mj-include path="components/button/button-style.mjml" />
 
+    <mj-font name="Roboto"
+       href="https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap" />
     <mj-font name="Ubuntu"
        href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" />
-    <mj-font name="Lato"
-       href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" />
+    <mj-font name="Montserrat"
+       href="https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap" />
    </mj-head>
 
     <mj-raw>
@@ -28,7 +30,7 @@
   </mj-head>
 
   <mj-body css-class="body"
-            background-color="#161614">
+            background-color="#030303">
 
   <mj-wrapper mj-class="wrapper"
             css-class="wrapper">

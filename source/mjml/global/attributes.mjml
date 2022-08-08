@@ -80,5 +80,28 @@
 
   <!-- blocks -->
 
+  <mj-class name="wrapper"                   background-url="https://i.postimg.cc/WbpmfjSn/img-cyber-main-bg.jpg"
+                                             background-position="left top"
+                                             background-repeat="no-repeat"
+                                             background-size="40%"
+                                             width="100%"/>
+
+  <!-- title -->
+
+  <mj-class name="views-title__logo"         width="450px"/>
+
+  <!-- header -->
+
+  <mj-class name="views-header__navlink"     href="#"
+                                             font-family="Montserrat, Courier, sans-serif"
+                                             font-size="16px"
+                                             font-weight="normal"
+                                             text-decoration="none"
+                                             text-transform="uppercase"
+                                             line-height="24px"
+                                             color="#bbbbbb"
+                                             padding="10px 20px"/>
+
+  <mj-class name="views-header-img"          />
 
 </mj-attributes>
