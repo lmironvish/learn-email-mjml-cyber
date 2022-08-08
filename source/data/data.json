@@ -1,0 +1,18 @@
+{
+  "title": {
+    "content": "title"
+  },
+
+  "preheader": {
+    "content": "preheader &nbsp;&zwnj;"
+  },
+
+  "views-title__logo": {
+    "src": "https://i.postimg.cc/8cQKr3VY/img-agency-logo.png",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  }
+
+
+}

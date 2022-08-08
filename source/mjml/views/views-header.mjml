@@ -1,0 +1,28 @@
+<mj-section mj-class="views-header pt10 pb30"
+          css-class="views-header pt10 pb30">
+
+  <mj-column mj-class="views-header__column"
+            css-class="views-header__column">
+
+    <mj-image mj-class="views-header__img alt-img"
+              css-class="views-header__img alt-img"
+
+              src="{{{views-header__img.src}}}"
+              title="{{{views-header__img.title}}}"
+              alt="{{{views-header__img.alt}}}" />
+
+    <mj-text mj-class="views-header__caption"
+            css-class="views-header__caption">
+      <p>We&nbsp;work outside</p>
+      <p>of&nbsp;the box.</p>
+    </mj-text>
+
+    <mj-button mj-class="views-header__btn"
+              css-class="views-header__btn"
+              href="#">
+        Download the free strategy guide
+    </mj-button>
+
+  </mj-column>
+
+</mj-section>
