@@ -39,6 +39,8 @@
 
       <mj-include path="views/views-header.mjml" />
 
+      <mj-include path="views/views-adv.mjml" />
+
       <mj-include path="views/views-footer.mjml" />
 
   </mj-wrapper>
