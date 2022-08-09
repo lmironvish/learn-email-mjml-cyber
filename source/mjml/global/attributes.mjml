@@ -173,7 +173,8 @@
                                              border-radius="6px"/>
 
   <!-- carousel -->
-  <mj-class name="views-carousel"            background-color="#0e0e10"/>
+  <mj-class name="views-carousel"            background-color="#0e0e10"
+                                             padding="20px"/>
 
   <mj-class name="views-carousel__wrap"      left-icon="https://i.postimg.cc/JhH5cqKC/img-cyber-left-arrow.png"
                                              right-icon="https://i.postimg.cc/T2Jq9hj1/img-cyber-right-arrow.png"
@@ -188,6 +189,46 @@
 
   <mj-class name="views-footer"              background-color="#0e0e10"/>
 
-  <mj-class name="views-footer__img"         width="50px"/>
+  <mj-class name="views-footer__img"         width="50px"
+                                             padding="10px"/>
+
+  <mj-class name="views-footer__link"        font-family="Montserrat, Courier, sans-serif"
+                                             font-size="12px"
+                                             text-align="left"
+                                             align="left"
+                                             text-transform="uppercase"
+                                             line-height="20px"
+                                             text-decoration="none"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-footer__caption"     font-family="Montserrat, Courier, sans-serif"
+                                             font-size="16px"
+                                             text-align="left"
+                                             align="left"
+                                             text-transform="uppercase"
+                                             line-height="24px"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-footer__text"        font-family="Roboto, Arial, sans-serif"
+                                             font-size="14px"
+                                             text-align="left"
+                                             align="left"
+                                             line-height="22px"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-footer__copyright"   font-family="Roboto, Arial, sans-serif"
+                                             font-size="14px"
+                                             text-align="left"
+                                             align="left"
+                                             line-height="22px"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-footer__social"      icon-width="20px"
+                                             padding="10px"/>
+
 
 </mj-attributes>

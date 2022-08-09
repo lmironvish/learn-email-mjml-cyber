@@ -1,8 +1,8 @@
 <mj-section mj-class="views-footer"
-            css-class="views-footer">
+            css-class="views-footer" padding="10px">
 
       <mj-column mj-class="views-footer__column"
-              css-class="views-footer__column">
+              css-class="views-footer__column" width="145px">
 
             <mj-image mj-class="views-footer__img"
                       css-class="views-footer__img"
@@ -15,60 +15,65 @@
       </mj-column >
 
 
-<mj-group>
+      <mj-group width="70%" >
+
+            <mj-column mj-class="views-footer__column"
+                  css-class="views-footer__column" width="25%">
+
+                  <mj-text mj-class="views-footer__link"
+                        css-class="views-footer__link">
+                        <a href="#">About</a>
+                  </mj-text>
+                  <mj-text mj-class="views-footer__link"
+                        css-class="views-footer__link">
+                        <a href="#">Sale</a>
+                  </mj-text>
+                  <mj-text mj-class="views-footer__link"
+                        css-class="views-footer__link">
+                        <a href="#">Terms</a>
+                  </mj-text>
+                  <mj-text mj-class="views-footer__link"
+                        css-class="views-footer__link">
+                        <a href="#">FAQ</a>
+                  </mj-text>
+
+            </mj-column >
+
+            <mj-column mj-class="views-footer__column"
+                  css-class="views-footer__column" width="75%">
+
+                  <mj-text mj-class="views-footer__caption"
+                        css-class="views-footer__caption">
+                        WHERE TO FIND US
+                  </mj-text>
+                  <mj-text mj-class="views-footer__text"
+                        css-class="views-footer__text">
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
+                  </mj-text>
+                  <mj-text mj-class="views-footer__copyright"
+                        css-class="views-footer__copyright">
+                        Made with pain by&nbsp;<a title="author-huyauthor" href="https://github.com/lmironvish">lmironvish</a>.
+                  </mj-text>
+            </mj-column >
+
+      </mj-group>
+
+</mj-section>
+
+
+<mj-section mj-class="views-footer"
+            css-class="views-footer">
 
       <mj-column mj-class="views-footer__column"
-              css-class="views-footer__column">
-
-            <mj-text mj-class="views-footer__link"
-                     css-class="views-footer__link">
-                  <a title="author-huyauthor" href="https://github.com/lmironvish">About</a>.
-            </mj-text>
-            <mj-text mj-class="views-footer__link"
-                     css-class="views-footer__link">
-                  <a title="author-huyauthor" href="https://github.com/lmironvish">Sale</a>.
-            </mj-text>
-            <mj-text mj-class="views-footer__link"
-                     css-class="views-footer__link">
-                  <a title="author-huyauthor" href="https://github.com/lmironvish">Terms</a>.
-            </mj-text>
-            <mj-text mj-class="views-footer__link"
-                     css-class="views-footer__link">
-                  <a title="author-huyauthor" href="https://github.com/lmironvish">FAQ</a>.
-            </mj-text>
-
-      </mj-column >
-
-      <mj-column mj-class="views-footer__column"
-              css-class="views-footer__column">
-
-            <mj-text mj-class="views-footer__caption"
-                     css-class="views-footer__caption">
-                  WHERE TO FIND US
-            </mj-text>
-            <mj-text mj-class="views-footer__text"
-                     css-class="views-footer__text">
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
-            </mj-text>
-            <mj-text mj-class="views-footer__copyright"
-                     css-class="views-footer__copyright">
-                  Made with pain by&nbsp;<a title="author-huyauthor" href="https://github.com/lmironvish">lmironvish</a>.
-            </mj-text>
-      </mj-column >
-
-</mj-group>
-
-      <mj-column mj-class="views-footer__column"
-              css-class="views-footer__column">
+              css-class="views-footer__column" width="100%">
 
             <mj-social mj-class="views-footer__social"
                        css-class="views-footer__social">
-                  <mj-social-element mj-class="views-footer__social-mail"
-                                     css-class="views-footer__social-mail">
-                  </mj-social-element>
-                  <mj-social-element mj-class="views-footer__social-link"
-                                     css-class="views-footer__social-link">
-                  </mj-social-element>
+                  <mj-social-element padding="10px" href="#" src="https://i.postimg.cc/x1CRqYzC/img-cyber-facebook.png"></mj-social-element>
+                  <mj-social-element padding="10px" href="#" src="https://i.postimg.cc/gJqRNBZQ/img-cyber-twitter.png"></mj-social-element>
+                  <mj-social-element padding="10px" href="#" src="https://i.postimg.cc/50cqPCkY/img-cyber-linkedin.png"></mj-social-element>
+                  <mj-social-element padding="10px" href="#" src="https://i.postimg.cc/DwMcXDrc/img-cyber-instagram.png"></mj-social-element>
             </mj-social>
       </mj-column >
+
 </mj-section>

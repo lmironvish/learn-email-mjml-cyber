@@ -81,4 +81,13 @@
     width: 520px !important;
   }
 
+  .views-footer__link a{
+    text-decoration: none !important;
+    color: #bbbbbb !important;
+  }
+
+  .views-footer__copyright a{
+    color: #a114ba !important;
+  }
+
 </mj-style>

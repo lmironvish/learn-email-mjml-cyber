@@ -22,6 +22,10 @@
   color: #a114ba !important;
 }
 
+.views-footer__link:hover a{
+  color: #a114ba !important;
+}
+
 /* media */
 
 @media screen and (max-width: 479px) {
