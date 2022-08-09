@@ -184,5 +184,10 @@
                                              tb-border="2px solid transparent"
                                              tb-hover-border-color="#a114ba"/>
 
+  <!-- footer -->
+
+  <mj-class name="views-footer"              background-color="#0e0e10"/>
+
+  <mj-class name="views-footer__img"         width="50px"/>
 
 </mj-attributes>

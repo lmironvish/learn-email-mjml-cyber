@@ -17,57 +17,64 @@
   "views-header__img": {
     "src": "https://i.postimg.cc/zBnw4G9d/img-cyber-lens-1.jpg",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-adv__img-video": {
     "src": "https://i.postimg.cc/4xLW1ngV/img-cyber-advantages-4.png",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-adv__img-other": {
     "src": "https://i.postimg.cc/K8v9LBdm/img-cyber-advantages-3.png",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-adv__img-lens": {
     "src": "https://i.postimg.cc/J48Yr9xD/img-cyber-advantages-2.png",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-adv__img-cam": {
     "src": "https://i.postimg.cc/gkKSnNtM/img-cyber-advantages-1.png",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-gallery__img-top": {
     "src": "https://i.postimg.cc/tJk3CmRW/img-cyber-lens-2.jpg",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-gallery__img-bottom": {
     "src": "https://i.postimg.cc/63Rzw0Gf/img-cyber-camera.jpg",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
   },
 
   "views-gallery__img-blink": {
     "src": "https://i.postimg.cc/hPCLkw5q/img-cyber-neon-1.png",
     "href": "#",
-    "title": "logo",
-    "alt": "logo"
+    "title": "",
+    "alt": ""
+  },
+
+  "views-footer__img": {
+    "src": "https://i.postimg.cc/QdHQhb2K/img-cyber-logo-footer.png",
+    "href": "#",
+    "title": "",
+    "alt": ""
   },
 
   "button--1": {
