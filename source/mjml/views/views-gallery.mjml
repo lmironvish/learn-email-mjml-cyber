@@ -44,8 +44,8 @@
 
 </mj-section>
 
-<mj-section mj-class="views-gallery"
-            css-class="views-gallery">
+<mj-section mj-class="views-gallery rtl"
+            css-class="views-gallery rtl">
 
       <mj-column mj-class="views-gallery__column"
                   css-class="views-gallery__column">

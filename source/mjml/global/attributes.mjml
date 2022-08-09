@@ -105,6 +105,7 @@
 
   <mj-class name="views-header__img"         padding="10px 0px"/>
 
+  <!-- adv -->
   <mj-class name="views-adv"                 padding="0px 10px"
                                              padding-top="10px"/>
 
@@ -124,6 +125,59 @@
 
   <mj-class name="views-adv__img"            width="64px"
                                              padding="10px"/>
+
+  <!-- galery -->
+
+  <mj-class name="rtl"                       direction="rtl"/>
+
+  <mj-class name="views-gallery"             padding="10px"/>
+
+  <mj-class name="views-gallery__img-top"    width="190px"
+                                             padding="10px"/>
+
+  <mj-class name="views-gallery__img-bottom" width="250px"
+                                             padding="10px"/>
+
+  <mj-class name="views-gallery__img-blink"  width="270px"
+                                             padding="10px"/>
+
+  <mj-class name="views-gallery__caption"    font-family="Montserrat, Courier, sans-serif"
+                                             font-size="16px"
+                                             text-align="left"
+                                             align="left"
+                                             text-transform="uppercase"
+                                             line-height="24px"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-gallery__text"       font-family="Roboto, Arial, sans-serif"
+                                             font-size="14px"
+                                             text-align="left"
+                                             align="left"
+                                             line-height="22px"
+                                             padding="10px"
+                                             color="#bbbbbb"/>
+
+  <mj-class name="views-gallery__button"     href="#"
+                                             background-color="#a114ba"
+                                             color="#bbbbbb"
+                                             font-family="Roboto, Arial, sans-serif"
+                                             font-size="14px"
+                                             font-weight="normal"
+                                             line-height="22px"
+                                             padding="10px"
+                                             border-radius="6px"/>
+
+    font-weight: normal;
+    line-height: 22px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: none;
+    padding: 10px 20px;
+    mso-padding-alt: 0px;
+    border-radius: 6px;
+
+
 
 
 </mj-attributes>

@@ -41,6 +41,8 @@
 
       <mj-include path="views/views-adv.mjml" />
 
+      <mj-include path="views/views-gallery.mjml" />
+
       <mj-include path="views/views-footer.mjml" />
 
   </mj-wrapper>

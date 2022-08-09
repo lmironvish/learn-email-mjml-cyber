@@ -73,4 +73,8 @@
     padding: 10px !important;
   }
 
+  .views-gallery__button a{
+    padding: 10px 20px !important;
+  }
+
 </mj-style>

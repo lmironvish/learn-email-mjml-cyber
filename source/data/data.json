@@ -55,8 +55,16 @@
     "title": "logo",
     "alt": "logo"
   },
+
   "views-gallery__img-bottom": {
     "src": "https://i.postimg.cc/63Rzw0Gf/img-cyber-camera.jpg",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
+  "views-gallery__img-blink": {
+    "src": "https://i.postimg.cc/hPCLkw5q/img-cyber-neon-1.png",
     "href": "#",
     "title": "logo",
     "alt": "logo"
