@@ -77,4 +77,8 @@
     padding: 10px 20px !important;
   }
 
+  .mj-carousel-images img{
+    width: 520px !important;
+  }
+
 </mj-style>

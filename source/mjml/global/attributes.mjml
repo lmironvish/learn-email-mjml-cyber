@@ -93,6 +93,8 @@
 
   <!-- header -->
 
+  <mj-class name="views-header"              background-color="#0e0e10"//>
+
   <mj-class name="views-header__navlink"     href="#"
                                              font-family="Montserrat, Courier, sans-serif"
                                              font-size="16px"
@@ -107,7 +109,8 @@
 
   <!-- adv -->
   <mj-class name="views-adv"                 padding="0px 10px"
-                                             padding-top="10px"/>
+                                             padding-top="10px"
+                                             background-color="#0e0e10"/>
 
   <mj-class name="views-adv__column"         padding="0px 10px"
                                              padding-bottom="10px"/>
@@ -130,7 +133,8 @@
 
   <mj-class name="rtl"                       direction="rtl"/>
 
-  <mj-class name="views-gallery"             padding="10px"/>
+  <mj-class name="views-gallery"             padding="10px"
+                                             background-color="#0e0e10"/>
 
   <mj-class name="views-gallery__img-top"    width="190px"
                                              padding="10px"/>
@@ -168,16 +172,17 @@
                                              padding="10px"
                                              border-radius="6px"/>
 
-    font-weight: normal;
-    line-height: 22px;
-    margin: 0;
-    text-decoration: none;
-    text-transform: none;
-    padding: 10px 20px;
-    mso-padding-alt: 0px;
-    border-radius: 6px;
+  <!-- carousel -->
+  <mj-class name="views-carousel"            background-color="#0e0e10"/>
 
-
+  <mj-class name="views-carousel__wrap"      left-icon="https://i.postimg.cc/JhH5cqKC/img-cyber-left-arrow.png"
+                                             right-icon="https://i.postimg.cc/T2Jq9hj1/img-cyber-right-arrow.png"
+                                             icon-width="20px"
+                                             tb-width="50px"
+                                             tb-selected-border-color="#a114ba"
+                                             tb-border-radius="6px"
+                                             tb-border="2px solid transparent"
+                                             tb-hover-border-color="#a114ba"/>
 
 
 </mj-attributes>

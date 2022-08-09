@@ -1,0 +1,16 @@
+<mj-section mj-class="views-carousel"
+            css-class="views-carousel">
+
+      <mj-column mj-class="views-carousel__column"
+                  css-class="views-carousel__column">
+            <mj-carousel mj-class="views-carousel__wrap"
+                         css-class="views-carousel__wrap">
+                      <mj-carousel-image src="https://i.postimg.cc/j2bcj7H0/img-cyber-carousel-1.jpg"
+                                         thumbnails-src="https://i.postimg.cc/52Tw0zJ7/img-cyber-thumbnail-1.jpg"/>
+                      <mj-carousel-image src="https://i.postimg.cc/NFk42jDy/img-cyber-carousel-2.jpg"
+                                         thumbnails-src="https://i.postimg.cc/MGB1jGKW/img-cyber-thumbnail-2.jpg"/>
+                      <mj-carousel-image src="https://i.postimg.cc/BQJN92Z2/img-cyber-carousel-3.jpg"
+                                         thumbnails-src="https://i.postimg.cc/V6cn9cdX/img-cyber-thumbnail-3.jpg"/>
+            </mj-carousel>
+
+</mj-column >
