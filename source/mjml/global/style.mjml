@@ -10,7 +10,7 @@
 }
 
 
-.views-header__navlink:hover a{
+.views-header__navlink:hover{
     background: #a114ba !important;
     background-color: #a114ba !important;
     border-radius: 6px !important;

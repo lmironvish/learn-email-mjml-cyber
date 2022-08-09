@@ -1,0 +1,91 @@
+<mj-section mj-class="views-gallery"
+            css-class="views-gallery">
+
+      <mj-column mj-class="views-gallery__column"
+                  css-class="views-gallery__column">
+
+            <mj-image mj-class="views-gallery__img-top"
+                      css-class="views-gallery__img-top"
+
+              src="{{{views-gallery__img-top.src}}}"
+              href="{{{views-gallery__img-top.href}}}"
+              title="{{{views-gallery__img-top.title}}}"
+              alt="{{{views-gallery__img-top.alt}}}" />
+
+      </mj-column >
+
+      <mj-column mj-class="views-gallery__column"
+                  css-class="views-gallery__column">
+
+            <mj-image mj-class="views-gallery__img-blink"
+                      css-class="views-gallery__img-blink"
+
+              src="{{{views-gallery__img-blink.src}}}"
+              href="{{{views-gallery__img-blink.href}}}"
+              title="{{{views-gallery__img-blink.title}}}"
+              alt="{{{views-gallery__img-blink.alt}}}" />
+
+              <mj-text mj-class="views-gallery__caption"
+                      css-class="views-gallery__caption">
+                UP TO 35% OFF CAMERA LENS
+              </mj-text>
+
+              <mj-text mj-class="views-gallery__text"
+                      css-class="views-gallery__text">
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </mj-text>
+
+              <mj-button mj-class="views-gallery__button"
+                        css-class="views-gallery__button">
+                  Shop now
+              </mj-button>
+
+      </mj-column >
+
+</mj-section>
+
+<mj-section mj-class="views-gallery"
+            css-class="views-gallery">
+
+      <mj-column mj-class="views-gallery__column"
+                  css-class="views-gallery__column">
+
+            <mj-image mj-class="views-gallery__img-bottom"
+                      css-class="views-gallery__img-bottom"
+
+              src="{{{views-gallery__img-bottom.src}}}"
+              href="{{{views-gallery__img-bottom.href}}}"
+              title="{{{views-gallery__img-bottom.title}}}"
+              alt="{{{views-gallery__img-bottom.alt}}}" />
+
+      </mj-column >
+
+      <mj-column mj-class="views-gallery__column"
+                  css-class="views-gallery__column">
+
+            <mj-image mj-class="views-gallery__img-blink"
+                      css-class="views-gallery__img-blink"
+
+              src="{{{views-gallery__img-blink.src}}}"
+              href="{{{views-gallery__img-blink.href}}}"
+              title="{{{views-gallery__img-blink.title}}}"
+              alt="{{{views-gallery__img-blink.alt}}}" />
+
+              <mj-text mj-class="views-gallery__caption"
+                      css-class="views-gallery__caption">
+                UP TO 35% OFF CAMERA LENS
+              </mj-text>
+
+              <mj-text mj-class="views-gallery__text"
+                      css-class="views-gallery__text">
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </mj-text>
+
+              <mj-button mj-class="views-gallery__button"
+                        css-class="views-gallery__button">
+                  Shop now
+              </mj-button>
+
+      </mj-column >
+
+</mj-section>

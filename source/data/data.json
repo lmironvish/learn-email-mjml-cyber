@@ -49,6 +49,19 @@
     "alt": "logo"
   },
 
+  "views-gallery__img-top": {
+    "src": "https://i.postimg.cc/tJk3CmRW/img-cyber-lens-2.jpg",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+  "views-gallery__img-bottom": {
+    "src": "https://i.postimg.cc/63Rzw0Gf/img-cyber-camera.jpg",
+    "href": "#",
+    "title": "logo",
+    "alt": "logo"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",
