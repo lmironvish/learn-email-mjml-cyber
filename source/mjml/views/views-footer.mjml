@@ -17,8 +17,8 @@
 
       <mj-group width="70%" >
 
-            <mj-column mj-class="views-footer__column"
-                  css-class="views-footer__column" width="25%">
+            <mj-column mj-class="views-footer__column menu"
+                  css-class="views-footer__column menu">
 
                   <mj-text mj-class="views-footer__link"
                         css-class="views-footer__link">

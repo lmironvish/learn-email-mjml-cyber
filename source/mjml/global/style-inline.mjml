@@ -90,4 +90,26 @@
     color: #a114ba !important;
   }
 
+  .views-footer__copyright a{
+    color: #a114ba !important;
+  }
+
+  .views-adv__column{
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .views-gallery__column{
+    width: 50% !important;
+    max-width: 50% !important;
+  }
+
+  .menu{
+    width: 25% !important;
+    max-width: 25% !important;
+  }
+
+
+
+
 </mj-style>
