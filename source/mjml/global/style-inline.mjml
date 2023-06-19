@@ -109,6 +109,9 @@
     max-width: 25% !important;
   }
 
+  .views-title__logo {
+    background-color: #0e0e10 !important;
+  }
 
 
 
